@@ -1,7 +1,7 @@
-import React from 'react'
+import React from 'react';
 
-export function Page3 () {
-  return (
-    <h1>Page 3</h1>
-  )
+export function Page3() {
+    return (
+        <h1>Page 3</h1>
+    );
 }
